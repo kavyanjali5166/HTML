@@ -1,0 +1,77 @@
+body
+{
+    background-color:pink;
+}
+.header-1
+{
+    background-color:antiquewhite;
+}
+.head-1
+{
+    display:flex;
+    align-items: center;
+    justify-content:  space-between;
+    padding: 25px 50px;
+    background-color:aqua;
+}
+.header-2
+{
+    background-color:yellow;
+}
+.head-2
+{
+    background-color: aliceblue;
+}
+.a1
+{
+    display:flex;
+    gap:20px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.n-1
+{
+    background-color:black;
+    color: antiquewhite;
+}
+.p1
+{
+    background-color: gold;
+}
+.p2
+{
+    background-color: gold;
+}
+.head-3
+{
+    background-color: cadetblue;
+}
+.header-3
+{
+    background-color: blueviolet;
+}
+.a2
+{
+    background-color:black;
+    color: antiquewhite;
+}
+.head-4
+{
+    background-color: aquamarine;
+}
+.header-4
+{
+    background-color: deeppink;
+}
+.head-5
+{
+    background-color: cornsilk;
+}
+.header-5
+{
+    background-color: red ;
+}
+.f1
+{
+    background-color: orchid;
+}
