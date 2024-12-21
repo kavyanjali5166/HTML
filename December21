@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  
+<body>
+    <h2>1st sem subjects</h2>
+    <h5>List of available courses</h5>
+    <ul>
+        <li>Introduction to Programming</li>
+        <li>Engineering chemistry</li>
+        <li>Differential equation and vector calculus</li>
+        <li>Communication english</li>
+        <li>Basic civil and mechanical engineering</li>
+    </ul>
+    <h5>List of labs</h5>
+    <ol>
+        <li>English lab</li>
+        <li>c programming lab</li>
+        <li>che lab</li>
+        <li>workshop lab</li>
+    </ol>
+    <h2> 2nd sem subjects</h2>
+    <h5>List of available courses</h5>
+    <ul>
+        <li>Datastructures</li>
+        <li>Engineering physics</li>
+        <li>linear algebra and  vector calculus</li>
+        <li>Engineering graphics</li>
+        <li>Basic electrical and electronic engineering</li>
+    </ul>
+    <h5>List of labs</h5>
+    <ol>
+        <li>Phy lab</li>
+        <li>IT lab</li>
+        <li>BEEE lab</li>
+        <li>Ds lab</li>
+    </ol>
+    <h2> 3rd sem subjects</h2>
+    <h5>List of available courses</h5>
+    <ul>
+        <li>Java Programming language</li>
+        <li>Advanced datastructure and algorithm analysis</li>
+        <li>Discrete mathematics and graph theory</li>
+        <li>Environmental science</li>
+        <li>Universal human values</li>
+        <li>Digital logic and computer organization</li>
+    </ul>
+    <h5>List of labs</h5>
+    <ol>
+        <li>Oops lab</li>
+        <li>python lab</li>
+        <li>Ads lab</li>
+        <li>CDC lab</li>
+    </ol>
+ssssssss</body>
+</html>
